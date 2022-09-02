@@ -1,5 +1,4 @@
 <div align="center"> 
-
   <div align="center">
    <h1 style="align: center">Programming Problems</h1>
    <h2>Sites</h2>
@@ -10,23 +9,4 @@
    <h2>Compile Scripts</h2>
    <pre><code>g++ code.cpp</code></pre>
    </div>
-  
 </div>
-
-
-# Programming Problems
-
-## Sites
-
-#### [**A2OJ** (a2oj.netlify.app)](a2oj.netlify.app)
-
-#### [**HackerRank** (hackerrank.com)](hackerrank.com)
-
-#### [**CSES** (cses.fi)](cses.fi)
-
-#### [**LeetCode** (leetcode.com](leetcode.com)
-
-## Compile Scripts
-```cpp
-g++ code.cpp
-```
