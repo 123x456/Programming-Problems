@@ -1,3 +1,4 @@
+<div align="center"> 
 # Programming Problems
 
 ## Sites
@@ -14,3 +15,4 @@
 ```cpp
 g++ code.cpp
 ```
+</div>
