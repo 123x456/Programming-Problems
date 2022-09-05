@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 
-int m =0;
+int m=0;
 
 void solve(string s1, string s2, string s3) {
 	vector<string>b;

@@ -6,4 +6,3 @@ int simpleArraySum(vector<int> ar) {
 	}
 	return num;
 }
-
