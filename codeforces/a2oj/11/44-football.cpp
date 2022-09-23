@@ -14,6 +14,7 @@ int main() {
     }
     int max=0;
     string k;
+
     for(auto x : map) {
         if (x.second>max) {
             max=x.second;
